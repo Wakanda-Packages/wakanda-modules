@@ -1,0 +1,9 @@
+[submodule "wakanda-stripe"]
+	path = wakanda-stripe
+	url = https://github.com/anvivia/wakanda-stripe.git
+[submodule "wakanda-querystring"]
+	path = wakanda-querystring
+	url = https://github.com/anvivia/wakanda-querystring
+[submodule "wakanda-twilio"]
+	path = wakanda-twilio
+	url = https://github.com/AMorgaut/wakanda-twilio
