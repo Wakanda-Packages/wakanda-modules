@@ -7,3 +7,9 @@
 [submodule "wakanda-twilio"]
 	path = wakanda-twilio
 	url = https://github.com/AMorgaut/wakanda-twilio
+[submodule "w3c-domcore-errors"]
+	path = w3c-domcore-errors
+	url = https://github.com/AMorgaut/w3c-domcore-errors
+[submodule "w3c-windowbase64"]
+	path = w3c-windowbase64
+	url = https://github.com/AMorgaut/w3c-windowbase64
