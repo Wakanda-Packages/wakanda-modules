@@ -13,3 +13,6 @@
 [submodule "w3c-windowbase64"]
 	path = w3c-windowbase64
 	url = https://github.com/AMorgaut/w3c-windowbase64
+[submodule "mustache.js"]
+	path = mustache.js
+	url = git://github.com/janl/mustache.js
