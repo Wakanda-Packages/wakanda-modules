@@ -16,3 +16,6 @@
 [submodule "mustache.js"]
 	path = mustache.js
 	url = git://github.com/janl/mustache.js
+[submodule "Paypal"]
+	path = Paypal
+	url = https://github.com/hredwan/Paypal.git
