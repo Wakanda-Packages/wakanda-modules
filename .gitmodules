@@ -22,3 +22,6 @@
 [submodule "w3c-domevents"]
 	path = w3c-domevents
 	url = https://github.com/AMorgaut/w3c-domevents
+[submodule "wak-paypal"]
+	path = wak-paypal
+	url = https://github.com/hredwan/wak-paypal
