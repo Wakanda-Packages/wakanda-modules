@@ -28,3 +28,6 @@
 [submodule "wakanda-googleOAuth2-client"]
 	path = wakanda-googleOAuth2-client
 	url = https://github.com/lyle/wakanda-googleOAuth2-client
+[submodule "mimeTypes"]
+	path = mimeTypes
+	url = git://github.com/jeffgrann/mimeTypes.git
