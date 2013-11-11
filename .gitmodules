@@ -31,3 +31,6 @@
 [submodule "mimeTypes"]
 	path = mimeTypes
 	url = git://github.com/jeffgrann/mimeTypes.git
+[submodule "http"]
+	path = http
+	url = git://github.com/jeffgrann/http.git
