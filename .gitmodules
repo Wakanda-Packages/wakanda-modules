@@ -34,3 +34,6 @@
 [submodule "http"]
 	path = http
 	url = git://github.com/jeffgrann/http.git
+[submodule "httpRequests"]
+	path = httpRequests
+	url = git://github.com/jeffgrann/httpRequests.git
