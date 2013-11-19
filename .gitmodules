@@ -40,3 +40,6 @@
 [submodule "rackspaceCloudFiles"]
 	path = rackspaceCloudFiles
 	url = git://github.com/jeffgrann/rackspaceCloudFiles.git
+[submodule "html"]
+	path = html
+	url = git://github.com/jeffgrann/html.git
