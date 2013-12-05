@@ -37,3 +37,9 @@
 [submodule "httpRequests"]
 	path = httpRequests
 	url = git://github.com/jeffgrann/httpRequests.git
+[submodule "rackspaceCloudFiles"]
+	path = rackspaceCloudFiles
+	url = git://github.com/jeffgrann/rackspaceCloudFiles.git
+[submodule "html"]
+	path = html
+	url = git://github.com/jeffgrann/html.git
