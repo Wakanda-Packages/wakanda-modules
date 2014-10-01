@@ -43,3 +43,6 @@
 [submodule "html"]
 	path = html
 	url = git://github.com/jeffgrann/html.git
+[submodule "shellWorker"]
+	path = shellWorker
+	url = https://github.com/Wakanda/shellWorker.git
